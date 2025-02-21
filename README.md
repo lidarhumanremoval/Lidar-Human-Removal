@@ -1,3 +1,10 @@
+#Removing Human Figures from LIDAR
+
+This is the repository containing the code for the [human figure removal](https://humanlidarremoval.github.io) project.
+The Segmentation model used is Point Transformer V3.
+
+
+
 # Point Transformer V3
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/point-transformer-v3-simpler-faster-stronger/lidar-semantic-segmentation-on-nuscenes)](https://paperswithcode.com/sota/lidar-semantic-segmentation-on-nuscenes?p=point-transformer-v3-simpler-faster-stronger)  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/point-transformer-v3-simpler-faster-stronger/semantic-segmentation-on-s3dis)](https://paperswithcode.com/sota/semantic-segmentation-on-s3dis?p=point-transformer-v3-simpler-faster-stronger)  
