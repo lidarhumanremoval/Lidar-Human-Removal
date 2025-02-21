@@ -1,6 +1,7 @@
 # Removing Human Figures from LIDAR
 
-This is the repository containing the code for the [human figure removal](https://humanlidarremoval.github.io) project.
+This is the repository containing the code for the [human figure removal](https://lidarhumanremoval.github.io) project.
+
 The Segmentation model used is Point Transformer V3.
 
 
