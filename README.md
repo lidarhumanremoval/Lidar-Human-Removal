@@ -2,9 +2,9 @@
 
 This is the repository containing the code for the [human figure removal](https://lidarhumanremoval.github.io) project.
 
-This work uses the Segmentation model from Point Transformer V3 trained on the Waymo Open Dataset to segment human figures from sequences captured with an Ouster-OS-0 LIDAR. The data firs is given in ros packages. 
+This work uses the Segmentation model from Point Transformer V3, trained on the Waymo Open Dataset to segment human figures from sequences captured with an Ouster-OS-0 LIDAR. The data firs is given in ros packages. 
 
-After segmentation, points categorized as "humans" can be removed.
+After the segmentation, points categorized as "humans" can be removed.
 
 <div align='left'>
 <img src="assets/removed.png" alt="removed" width="800" />
